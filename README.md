@@ -1,4 +1,4 @@
-# Programming Fundamentals 1st Project _ in C
+# Programming Fundamentals 1st Project
 
 ``` While(True): 
       Programming is Fun!
@@ -14,7 +14,8 @@ Very early stages.
 
 ## Motivation
 
-This project is the conversion of the project1.py file to C.
+This project was instructed by the course's teachers.
+Also started building a C version. Which is not finished.
 
 #### Small code sample:
 ```
